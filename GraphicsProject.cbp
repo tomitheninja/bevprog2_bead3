@@ -60,10 +60,7 @@
 		<Unit filename="include/container.h" />
 		<Unit filename="include/fixed_size_label.h" />
 		<Unit filename="include/label.h" />
-		<Unit filename="include/number_picker.h" />
-		<Unit filename="include/pushable_button.h" />
 		<Unit filename="include/renderable.h" />
-		<Unit filename="include/select.h" />
 		<Unit filename="include/styles.h" />
 		<Unit filename="include/vector2.h" />
 		<Unit filename="include/widget.h" />
@@ -75,10 +72,7 @@
 		<Unit filename="src/container.cpp" />
 		<Unit filename="src/fixed_size_label.cpp" />
 		<Unit filename="src/label.cpp" />
-		<Unit filename="src/number_picker.cpp" />
-		<Unit filename="src/pushable_button.cpp" />
 		<Unit filename="src/renderable.cpp" />
-		<Unit filename="src/select.cpp" />
 		<Unit filename="src/styles.cpp" />
 		<Unit filename="src/vector2.cpp" />
 		<Unit filename="src/widget.cpp" />
